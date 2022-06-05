@@ -32,7 +32,7 @@
         "@axe-core/react": "^4.3.2",
         "@babel/core": "^7.16.7",
         "@babel/node": "^7.16.7",
-        "@babel/plugin-transform-typescript": "^7.16.7",
+        "@babel/plugin-transform-typescript": "^7.18.4",
         "@babel/preset-env": "^7.16.7",
         "@babel/preset-typescript": "^7.16.7",
         "@testing-library/dom": "^8.11.1",
